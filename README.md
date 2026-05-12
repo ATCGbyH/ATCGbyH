@@ -8,7 +8,7 @@
 <h4>• 🔬 Imaging & Spatial biology </h4>
 <h4>• 🤖 AI/ML/DL Models applied in Health and Life Sciences </h4>
 
-<h4> I hope you’ll find useful pipelines, new ideas, and opportunities for collaboration here. </h4>
+<h4> You'll hopefully find useful pipelines, new ideas, and opportunities for collaboration here. </h4>
   
 <h2>👨🏽‍🔬 My Portfolio:</h2>
 <h3> Human Genomics </h3>
