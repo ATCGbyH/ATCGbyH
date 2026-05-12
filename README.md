@@ -10,7 +10,8 @@
 
 <h4> You'll hopefully find useful pipelines, new ideas, and opportunities for collaboration here. </h4>
   
-<h2>👨🏽‍🔬 My Portfolio:</h2>
+<h2>👨🏽‍🔬 My Portfolio: </h2>
+<h2> ⚠️ Section under construction 🚧 </h2>
 <h3> Human Genomics </h3>
 <h3> Microbiology </h3>
 <h3> Imaging & Spatial Biology </h3>
