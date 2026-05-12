@@ -15,3 +15,15 @@
 <h3> Microbiology </h3>
 <h3> Imaging & Spatial Biology </h3>
 <h3> Data Science </h3>
+
+<h2> 🌐 Connect with me: </h2>
+
+<b>[<img align="left" alt="LinkedIn" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+fill="#0A66C2" /> LinkedIn][linkedin]</b>
+
+<b>[<img align="left" alt="Gmail" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Email][gmail]</b>
+
+[linkedin]:https://www.linkedin.com/in/hug0roca/
+[gmail]: hugorocabms@gmail.com
