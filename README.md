@@ -6,7 +6,7 @@
 <h4>• 🧬 Cancer Genomics </h4>
 <h4>• 🦠 Microbiology </h4>
 <h4>• 🔬 Imaging & Spatial biology </h4>
-<h4>• 🤖 AI/ML/DL Models applied in Health and Life Sciences </h4>
+<h4>• 🤖 AI/ML/DL for Health & Life Sciences </h4>
 
 <h4> You'll hopefully find useful pipelines, new ideas, and opportunities for collaboration here. </h4>
   
