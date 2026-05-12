@@ -14,6 +14,7 @@
 <h3> Human Genomics </h3>
 <h3> Microbiology </h3>
 <h3> Imaging & Spatial Biology </h3>
+- <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG"> Deep Learning-Driven Imaging Mass Cytometry Denoising: Performance Evaluation and Impacts in Downstream Analysis of PDAC and IPMN datasets </a> 
 <h3> Data Science </h3>
 
 <h2> 🌐 Connect with me: </h2>
