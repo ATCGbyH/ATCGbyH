@@ -1,7 +1,7 @@
-<h1>Hello World, I'm H'! <br/><a href="https://github.com/ATCGbyH">Bioinformatician and Data Scientist</a>
+<h1> Hello World, I'm H'! <br/><a href="https://github.com/ATCGbyH">Bioinformatician and Data Scientist </a> </h1> 
 
 <h3>This repository is a growing collection of computational tools, pipelines, and experiments designed by me.</h3>
-<h4>Whether you're interested in: </h4>
+<h4> Whether you're interested in: </h4>
 
 <h4>• 🧬 Cancer Genomics </h4>
 <h4>• 🦠 Microbiology </h4>
