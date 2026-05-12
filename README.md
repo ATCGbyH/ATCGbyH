@@ -22,8 +22,8 @@
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
 fill="#0A66C2" /> LinkedIn][linkedin]</b>
 
-<b>[<img align="left" alt="Gmail" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Email][gmail]</b>
+<b>[<img align="left" alt="Email" width="22px"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Email](mailto:hugorocabms@gmail.com)</b>
 
 [linkedin]:https://www.linkedin.com/in/hug0roca/
 [gmail]: hugorocabms@gmail.com
