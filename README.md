@@ -11,7 +11,7 @@
 <h4> You'll hopefully find useful pipelines, new ideas, and opportunities for collaboration here. </h4>
   
 <h2>👨🏽‍🔬 My Portfolio: ⚠️🚧 Section under construction 🚧⚠️ </h2>
-<h3> Human Genomics </h3>
+<h3> Cancer Genomics </h3>
 <h3> Microbiology/Virology </h3>
 <h3> Imaging & Spatial Biology </h3>
 •  <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG">IMC Denoise & Cell Segmentation: Evaluation on downstream analysis of PDAC and IPMN datasets</h3>
