@@ -14,7 +14,7 @@
 <h3> Human Genomics </h3>
 <h3> Microbiology </h3>
 <h3> Imaging & Spatial Biology </h3>
-•  <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG">IMC_Denoise & Cell Segmentation: Evaluation on downstream analysis of PDAC and IPMN datasets</h3>
+•  <a href="https://github.com/ATCGbyH/IMC_Denoise-CellSEG">IMC Denoise & Cell Segmentation: Evaluation on downstream analysis of PDAC and IPMN datasets</h3>
 
 <h2> 🌐 Connect with me: </h2>
 
