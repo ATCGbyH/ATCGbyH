@@ -13,7 +13,7 @@
 <h2>👨🏽‍🔬 My Portfolio:</h2>
 
 <h3>Cancer Genomics</h3>
-• <a href="https://github.com/ATCGbyH/SpatialTranscriptomics_GBM">Spatial Transcriptomics - Seurat Analysis: Human Glioblastoma (GBM) FFPE Tissue</a>
+• <a href="https://github.com/ATCGbyH/SpatialTranscriptomics_Seurat_GBM">Spatial Transcriptomics - Seurat Analysis: Human Glioblastoma (GBM) FFPE Tissue</a>
 
 <h3>Microbiology/Virology</h3>
 
