@@ -10,7 +10,7 @@
 
 <h4> You'll hopefully find useful pipelines, new ideas, some of my projects and opportunities for collaboration here. </h4>
   
-<h2>👨🏽‍🔬 My Portfolio: ⚠️🚧 Section under construction 🚧⚠️</h2>
+<h2>👨🏽‍🔬 My Portfolio:</h2>
 
 <h3>Cancer Genomics</h3>
 • <a href="https://github.com/ATCGbyH/SpatialTranscriptomics_GBM">Spatial Transcriptomics Analysis: Human Glioblastoma (GBM) FFPE Tissue</a>
