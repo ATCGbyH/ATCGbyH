@@ -4,9 +4,9 @@
 <h4> Whether you're interested in: </h4>
 
 <h4>• 🧬 Cancer Genomics </h4>
-<h4>• 🦠 Microbiology/Virology </h4>
 <h4>• 🔬 Imaging & Spatial biology </h4>
 <h4>• 🤖 AI/ML/DL for Health & Life Sciences </h4>
+<h4>• 🦠 Microbiology/Virology </h4>
 
 <h4> You'll hopefully find useful pipelines, new ideas, some of my projects and opportunities for collaboration here. </h4>
   
